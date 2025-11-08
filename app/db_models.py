@@ -6,13 +6,10 @@ from datetime import datetime #this is from python
 from sqlalchemy.orm import relationship
 
 
-#comment
-
-#comment
-
-#thank you
 
 # The user class.
+
+
 class User(Base):
 
     #giving the table a name
