@@ -10,8 +10,11 @@ from sqlalchemy.orm import relationship
 
 #comment
 
+#so yh
 
 # The user class.
+
+
 class User(Base):
 
     #giving the table a name
