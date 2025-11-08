@@ -8,6 +8,8 @@ from sqlalchemy.orm import relationship
 
 #comment
 
+#comment
+
 
 # The user class.
 class User(Base):
